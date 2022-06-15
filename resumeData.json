@@ -1,153 +1,174 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Samarth Roy",
+    "occupation": "Developer",
+    "description": "New graduate keen on gaining experience in Development in the Greater Toronto Area. Thank you for taking the time to visit my portfolio",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am a Computer Science (major) and Business (minor) graduate with coding experience in Java, Javascript, Python, PHP, and C. My way of working is methodical and meticulous. Quick on the uptake of new information, ideas, business requirements, and technologies, I strive to provide value at the workplace by adapting quickly and maintaining a strong work ethic. As a recent graduate ready to enter the software industry, I am interested in learning and practicing both front-end and back-end development further, and am eager to be given an opportunity to prove that I am up to the task.",
+    "contactmessage": "Want to chat? Please send me a message and I'll respond at the earliest.",
+    "email": "samarthroy2106@gmail.com",
+    "phone": "778-922-6190",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Quadra Street",
+      "city": "Victoria",
+      "state": "British Columbia",
+      "zip": "V8X 1G3"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://samroy2106.github.io/react-portfolio",
+    "resumedownload": "http://samroy2106.github.io/react-portfolio",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/samarth-roy-31211019b/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/samroy2106",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Skills I have acquired over the past few years",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Victoria",
+        "degree": "BSc Computer Science (minor in Busniess)",
+        "graduated": "April 2022",
+        "description": "University is a very challenging yet rewarding experience, and along the way I have learned a plethora of things pertaining to Computer Science, Business and a few other domains. I have acquired the ability to write clean, and elegant code, perform Business Analysis activities, research, and write formal papers on varied topics."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Tantalus Systems",
+        "title": "Business Tools Developer",
+        "years": "January 2019 - August 2019",
+        "description": "My main project at this internship was to perform an integration for the RMA (Return Merchandise Authorization) workflow of the company among Salesforce, Liferay-Teamroom, and Agile JIRA, using Java, APEX, SOAP web-services, and REST web-services. My work enabled the automation of the workflow, enabling the elimination of the need for manual monitoring and data entry, making the process more effincient and reliable, while also reducing the cost of operation. Additionally , I performed system administration, database administration, change requests, and extensive documentation."
       }
     ],
     "skills": [
       {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "72%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "78%"
+      },
+      {
         "name": "Git",
-        "level": "60%"
+        "level": "75%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "React",
+        "level": "53%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Node.js",
+        "level": "72%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Underwater Autonomous Robot Prototype",
+        "category": "Designed, developed, and tested a prototype for an Underwater Autonomous Cable carrying robot.",
+        "image": "vex_robot.jpg",
+        "url": "https://blank.org/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "University Course Reqistration Webapp - Requirements Engineering",
+        "category": "Iteratively developed detailed requirements documents and mock-ups.",
+        "image": "course_registrator.png",
+        "url": "https://github.com/samroy2106/University-Course-Registrator"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Custom C shell",
+        "category": "Wrote a C shell with a few built-in commands.",
+        "image": "c_shell.png",
+        "url": "https://github.com/samroy2106/Custom-C-Shell"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "C File System",
+        "category": "Created a file system to map file and directory data (and metadata) to blocks on a virtual disk.",
+        "image": "file_system.png",
+        "url": "https://github.com/samroy2106/C-File-System"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "title": "Improvements to Ansible source code",
+        "category": "Made changes to improve the code structure of a few components of the Ansible source code.",
+        "image": "ansible_logo.jpg",
+        "url": "https://github.com/samroy2106/ansible"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Customer Developement Research - VR product",
+        "category": "Prepared a presentation, performed a survey, and statistical analysis.",
+        "image": "immersion_vr_tours.png",
+        "url": "https://github.com/samroy2106/Immersion-VR-Tours"
+      },
+      {
+        "title": "Flight information tracking database",
+        "category": "Created and tested ACID compliant database schema.",
+        "image": "database.png",
+        "url": "https://github.com/samroy2106/Flight-Information-Tracking-Database"
+      },
+      {
+        "title": "Student Contact Manager Webapp",
+        "category": "Created a full stack Student Contact Manager webapp using HTML, CSS, PHP, jQuery, jQueryUI, and MySQL to keep detailed records of students.",
+        "image": "student_contact_manager.png",
+        "url": "https://github.com/samroy2106/StudentContactManager"
+      },
+      {
+        "title": "HealthLink BC Nutrition Manager Webapp - Systems Analysis",
+        "category": "Did comprehensive systems analysis.",
+        "image": "healthlink_bc.png",
+        "url": "https://github.com/samroy2106/Healthlink-BC-Nutrition-Manager"
+      },
+      {
+        "title": "React To Do List",
+        "category": "Created a React based To Do List.",
+        "image": "to_do.png",
+        "url": "https://samroy2106.github.io/react-to-do-app/"
+      },
+      {
+        "title": "React Liverpool Cards",
+        "category": "Created an aesthetically pleasing responsive React app to display current squad members of Liverpool Football Club.",
+        "image": "liverpool_cards.png",
+        "url": "https://samroy2106.github.io/react-liverpool-cards/"
+      },
+      {
+        "title": "Face Reader Webapp",
+        "category": "Created a full stack web app using React, Node.js, Express.js and Postgres that uses a face recognition API to detect faces in images given the image URL.",
+        "image": "facereader.png",
+        "url": "https://face-read.herokuapp.com/"
+      },
+      {
+        "title": "Weather App",
+        "category": "Created a weather app built using Node.js and Express that uses geocoding and weather forecast API.",
+        "image": "weather_app.png",
+        "url": "https://current-weather-forecast.herokuapp.com/"
+      },
+      {
+        "title": "Task Manager",
+        "category": "Created a task Manager app backend built using Node.js, Express and mongoose that keeps track of completed/ incomplete tasks for multiple users.",
+        "image": "task_manager.png",
+        "url": "https://github.com/samroy2106/node-task-manager"
+      },
+      {
+        "title": "Chat App",
+        "category": "Created a chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
+        "image": "chat_app.png",
+        "url": "https://chathalls.herokuapp.com/"
       }
     ]
   }
