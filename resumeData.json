@@ -113,7 +113,7 @@
       {
         "title": "Customer Developement Research - VR product",
         "category": "Prepared a presentation, performed a survey, and statistical analysis.",
-        "image": "immersion_vr_tours.png",
+        "image": "immersion_vr_tours.PNG",
         "url": "https://github.com/samroy2106/Immersion-VR-Tours"
       },
       {
@@ -137,25 +137,25 @@
       {
         "title": "React To Do List",
         "category": "Created a React based To Do List.",
-        "image": "to_do.png",
+        "image": "to_do.PNG",
         "url": "https://samroy2106.github.io/react-to-do-app/"
       },
       {
         "title": "React Liverpool Cards",
         "category": "Created an aesthetically pleasing responsive React app to display current squad members of Liverpool Football Club.",
-        "image": "liverpool_cards.png",
+        "image": "liverpool_cards.PNG",
         "url": "https://samroy2106.github.io/react-liverpool-cards/"
       },
       {
         "title": "Face Reader Webapp",
         "category": "Created a full stack web app using React, Node.js, Express.js and Postgres that uses a face recognition API to detect faces in images given the image URL.",
-        "image": "facereader.png",
+        "image": "facereader.PNG",
         "url": "https://face-read.herokuapp.com/"
       },
       {
         "title": "Weather App",
         "category": "Created a weather app built using Node.js and Express that uses geocoding and weather forecast API.",
-        "image": "weather_app.png",
+        "image": "weather_app.PNG",
         "url": "https://current-weather-forecast.herokuapp.com/"
       },
       {
@@ -167,7 +167,7 @@
       {
         "title": "Chat App",
         "category": "Created a chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
-        "image": "chat_app.png",
+        "image": "chat_app.PNG",
         "url": "https://chathalls.herokuapp.com/"
       }
     ]
