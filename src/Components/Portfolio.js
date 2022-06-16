@@ -8,7 +8,7 @@ class Portfolio extends Component {
         var projectImage = 'https://samroy2106.github.io/dev-react-portfolio/images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a href={projects.url} title={projects.title} target="_blank" rel="noopener noreferrer">
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -16,7 +16,6 @@ class Portfolio extends Component {
                      <p>{projects.category}</p>
                   </div>
                 </div>
-              <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
           </div>
         </div>

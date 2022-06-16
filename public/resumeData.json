@@ -169,6 +169,12 @@
         "category": "Created a chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
         "image": "chat_app.PNG",
         "url": "https://chathalls.herokuapp.com/"
+      },
+      {
+        "title": "Portfolio",
+        "category": "Created a simple personal portfolio using vanilla HTML, CSS and Javascript.",
+        "image": "portfolio.png",
+        "url": "https://samroy2106.github.io/portfolio/"
       }
     ]
   }
