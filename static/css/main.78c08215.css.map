@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.78c08215.css","mappings":"AAAA,WACE,YAAa,CAGb,eAAgB,CAChB,gBAAiB,CAFjB,cAAe,CADf,WAIF","sources":["App.css"],"sourcesContent":[".item-wrap {\r\n  height: 150px;\r\n  width: 250px;\r\n  padding-top: 5%;\r\n  padding-left: 5%;\r\n  padding-right: 5%;\r\n}\r\n"],"names":[],"sourceRoot":""}
