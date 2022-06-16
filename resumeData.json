@@ -1,20 +1,21 @@
 {
   "main": {
     "name": "Samarth Roy",
+    "location": "Toronto",
     "occupation": "Developer",
     "description": "New graduate keen on gaining experience in Development in the Greater Toronto Area. Thank you for taking the time to visit my portfolio",
     "image": "profilepic.jpg",
-    "bio": "I am a Computer Science (major) and Business (minor) graduate with coding experience in Java, Javascript, Python, PHP, and C. My way of working is methodical and meticulous. Quick on the uptake of new information, ideas, business requirements, and technologies, I strive to provide value at the workplace by adapting quickly and maintaining a strong work ethic. As a recent graduate ready to enter the software industry, I am interested in learning and practicing both front-end and back-end development further, and am eager to be given an opportunity to prove that I am up to the task.",
+    "bio": "I am a Computer Science (major) and Business (minor) graduate with coding experience in Java, Javascript, Python, PHP, and C. My way of working is methodical and meticulous. Quick on the uptake of ideas, business requirements, and technologies, I strive to provide value by adapting quickly and maintaining a strong work ethic. As a recent graduate ready to enter the software industry, I am interested in learning and practicing both front-end and back-end development, and I am confident that I am up to the task.",
     "contactmessage": "Want to chat? Please send me a message and I'll respond at the earliest.",
     "email": "samarthroy2106@gmail.com",
-    "phone": "778-922-6190",
+    "phone": "(778) 922-6190",
     "address": {
-      "street": "Quadra Street",
-      "city": "Victoria",
-      "state": "British Columbia",
-      "zip": "V8X 1G3"
+      "street": "Corbet Drive",
+      "city": "Mississauga",
+      "state": "Ontario",
+      "zip": "L4W 3K6"
     },
-    "website": "http://samroy2106.github.io/react-portfolio",
+    "website": "https://samroy2106.github.io/dev-react-portfolio/",
     "resumedownload": "http://samroy2106.github.io/react-portfolio",
     "social": [
       {
@@ -30,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Skills I have acquired over the past few years",
+    "skillmessage": "Skills I have acquired over the past few years.",
     "education": [
       {
         "school": "University of Victoria",
@@ -44,7 +45,7 @@
         "company": "Tantalus Systems",
         "title": "Business Tools Developer",
         "years": "January 2019 - August 2019",
-        "description": "My main project at this internship was to perform an integration for the RMA (Return Merchandise Authorization) workflow of the company among Salesforce, Liferay-Teamroom, and Agile JIRA, using Java, APEX, SOAP web-services, and REST web-services. My work enabled the automation of the workflow, enabling the elimination of the need for manual monitoring and data entry, making the process more effincient and reliable, while also reducing the cost of operation. Additionally , I performed system administration, database administration, change requests, and extensive documentation."
+        "description": "My main project at this internship was to perform an integration for the RMA (Return Merchandise Authorization) workflow of the company among Salesforce, Liferay-Teamroom, and Agile JIRA, using Java, APEX, SOAP web-services, and REST web-services. My work enabled automation of the workflow, eliminating the need for manual monitoring and data entry, making the process more effincient and reliable, while also reducing the cost of operation. Additionally, I performed system administration, database administration, and extensive documentation, while also optimizing and implementing features for various reporting tools."
       }
     ],
     "skills": [
@@ -54,7 +55,7 @@
       },
       {
         "name": "Javascript",
-        "level": "72%"
+        "level": "65%"
       },
       {
         "name": "Python",
@@ -62,19 +63,19 @@
       },
       {
         "name": "PHP",
-        "level": "78%"
-      },
-      {
-        "name": "Git",
         "level": "75%"
       },
       {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
         "name": "React",
-        "level": "53%"
+        "level": "55%"
       },
       {
         "name": "Node.js",
-        "level": "72%"
+        "level": "70%"
       }
     ]
   },
@@ -82,49 +83,49 @@
     "projects": [
       {
         "title": "Portfolio",
-        "category": "Created a simple personal portfolio using vanilla HTML, CSS and Javascript.",
+        "category": "A simple personal portfolio built using vanilla HTML, CSS and Javascript.",
         "image": "portfolio.png",
         "url": "https://samroy2106.github.io/portfolio/"
       },
       {
         "title": "Face Reader Webapp",
-        "category": "Created a full stack web app using React, Node.js, Express.js and Postgres that uses a face recognition API to detect faces in images given the image URL.",
+        "category": "A full stack web app built using React, Node.js, Express.js and Postgres that uses a face recognition API to detect faces in images given the image URL.",
         "image": "facereader.PNG",
         "url": "https://face-read.herokuapp.com/"
       },
       {
         "title": "Chat App",
-        "category": "Created a chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
+        "category": "A chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
         "image": "chat_app.PNG",
         "url": "https://chathalls.herokuapp.com/"
       },
       {
         "title": "Weather App",
-        "category": "Created a weather app built using Node.js and Express that uses geocoding and weather forecast API.",
+        "category": "A weather app built using Node.js and Express that uses geocoding and weather forecast API.",
         "image": "weather_app.PNG",
         "url": "https://current-weather-forecast.herokuapp.com/"
       },
       {
         "title": "Student Contact Manager Webapp",
-        "category": "Created a full stack Student Contact Manager webapp using HTML, CSS, PHP, jQuery, jQueryUI, and MySQL to keep detailed records of students.",
+        "category": "A full stack contact management webapp build using HTML, CSS, PHP, jQuery, jQueryUI, and MySQL to keep detailed records of students.",
         "image": "student_contact_manager.png",
         "url": "https://github.com/samroy2106/StudentContactManager"
       },
       {
         "title": "React Liverpool Cards",
-        "category": "Created an aesthetically pleasing responsive React app to display current squad members of Liverpool Football Club.",
+        "category": "A responsive app built using React to display current squad members of Liverpool Football Club.",
         "image": "liverpool_cards.PNG",
         "url": "https://samroy2106.github.io/react-liverpool-cards/"
       },
       {
         "title": "React To Do List",
-        "category": "Created a React based To Do List.",
+        "category": "A React based To Do List.",
         "image": "to_do.PNG",
         "url": "https://samroy2106.github.io/react-to-do-app/"
       },
       {
         "title": "HealthLink BC Nutrition Manager Webapp - Systems Analysis",
-        "category": "Did comprehensive systems analysis.",
+        "category": "Conducted comprehensive business systems analysis.",
         "image": "healthlink_bc.png",
         "url": "https://github.com/samroy2106/Healthlink-BC-Nutrition-Manager"
       },
@@ -136,13 +137,13 @@
       },
       {
         "title": "Customer Developement Research - VR product",
-        "category": "Prepared a presentation, performed a survey, and statistical analysis.",
+        "category": "Prepared a presentation, performed a survey, and statistical analysis for VR product.",
         "image": "immersion_vr_tours.PNG",
         "url": "https://github.com/samroy2106/Immersion-VR-Tours"
       },
       {
         "title": "Task Manager",
-        "category": "Created a task Manager app backend built using Node.js, Express and mongoose that keeps track of completed/ incomplete tasks for multiple users.",
+        "category": "A task management app backend built using Node.js, Express and mongoose that keeps track of completed/ incomplete tasks for multiple users.",
         "image": "task_manager.png",
         "url": "https://github.com/samroy2106/node-task-manager"
       },
@@ -160,13 +161,13 @@
       },
       {
         "title": "Custom C shell",
-        "category": "Wrote a C shell with a few built-in commands.",
+        "category": "A C shell with a few built-in commands.",
         "image": "c_shell.png",
         "url": "https://github.com/samroy2106/Custom-C-Shell"
       },
       {
         "title": "C File System",
-        "category": "Created a file system to map file and directory data (and metadata) to blocks on a virtual disk.",
+        "category": "A file system to map file and directory data (and metadata) to blocks on a virtual disk.",
         "image": "file_system.png",
         "url": "https://github.com/samroy2106/C-File-System"
       },
