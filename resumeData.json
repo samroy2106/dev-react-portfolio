@@ -81,16 +81,82 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Underwater Autonomous Robot Prototype",
-        "category": "Designed, developed, and tested a prototype for an Underwater Autonomous Cable carrying robot.",
-        "image": "vex_robot.jpg",
-        "url": "https://blank.org/"
+        "title": "Portfolio",
+        "category": "Created a simple personal portfolio using vanilla HTML, CSS and Javascript.",
+        "image": "portfolio.png",
+        "url": "https://samroy2106.github.io/portfolio/"
+      },
+      {
+        "title": "Face Reader Webapp",
+        "category": "Created a full stack web app using React, Node.js, Express.js and Postgres that uses a face recognition API to detect faces in images given the image URL.",
+        "image": "facereader.PNG",
+        "url": "https://face-read.herokuapp.com/"
+      },
+      {
+        "title": "Chat App",
+        "category": "Created a chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
+        "image": "chat_app.PNG",
+        "url": "https://chathalls.herokuapp.com/"
+      },
+      {
+        "title": "Weather App",
+        "category": "Created a weather app built using Node.js and Express that uses geocoding and weather forecast API.",
+        "image": "weather_app.PNG",
+        "url": "https://current-weather-forecast.herokuapp.com/"
+      },
+      {
+        "title": "Student Contact Manager Webapp",
+        "category": "Created a full stack Student Contact Manager webapp using HTML, CSS, PHP, jQuery, jQueryUI, and MySQL to keep detailed records of students.",
+        "image": "student_contact_manager.png",
+        "url": "https://github.com/samroy2106/StudentContactManager"
+      },
+      {
+        "title": "React Liverpool Cards",
+        "category": "Created an aesthetically pleasing responsive React app to display current squad members of Liverpool Football Club.",
+        "image": "liverpool_cards.PNG",
+        "url": "https://samroy2106.github.io/react-liverpool-cards/"
+      },
+      {
+        "title": "React To Do List",
+        "category": "Created a React based To Do List.",
+        "image": "to_do.PNG",
+        "url": "https://samroy2106.github.io/react-to-do-app/"
+      },
+      {
+        "title": "HealthLink BC Nutrition Manager Webapp - Systems Analysis",
+        "category": "Did comprehensive systems analysis.",
+        "image": "healthlink_bc.png",
+        "url": "https://github.com/samroy2106/Healthlink-BC-Nutrition-Manager"
       },
       {
         "title": "University Course Reqistration Webapp - Requirements Engineering",
         "category": "Iteratively developed detailed requirements documents and mock-ups.",
         "image": "course_registrator.png",
         "url": "https://github.com/samroy2106/University-Course-Registrator"
+      },
+      {
+        "title": "Customer Developement Research - VR product",
+        "category": "Prepared a presentation, performed a survey, and statistical analysis.",
+        "image": "immersion_vr_tours.PNG",
+        "url": "https://github.com/samroy2106/Immersion-VR-Tours"
+      },
+      {
+        "title": "Task Manager",
+        "category": "Created a task Manager app backend built using Node.js, Express and mongoose that keeps track of completed/ incomplete tasks for multiple users.",
+        "image": "task_manager.png",
+        "url": "https://github.com/samroy2106/node-task-manager"
+      },
+      {
+        "title": "Improvements to Ansible source code",
+        "category": "Made changes to improve the code structure of a few components of the Ansible source code.",
+        "image": "ansible_logo.jpg",
+        "url": "https://github.com/samroy2106/ansible"
+      },
+      {
+        "title": "Flight information tracking database",
+        "category": "Created and tested ACID compliant database schema.",
+        "image": "database.png",
+        "url": "https://github.com/samroy2106/Flight-Information-Tracking-Database"
       },
       {
         "title": "Custom C shell",
@@ -105,76 +171,10 @@
         "url": "https://github.com/samroy2106/C-File-System"
       },
       {
-        "title": "Improvements to Ansible source code",
-        "category": "Made changes to improve the code structure of a few components of the Ansible source code.",
-        "image": "ansible_logo.jpg",
-        "url": "https://github.com/samroy2106/ansible"
-      },
-      {
-        "title": "Customer Developement Research - VR product",
-        "category": "Prepared a presentation, performed a survey, and statistical analysis.",
-        "image": "immersion_vr_tours.PNG",
-        "url": "https://github.com/samroy2106/Immersion-VR-Tours"
-      },
-      {
-        "title": "Flight information tracking database",
-        "category": "Created and tested ACID compliant database schema.",
-        "image": "database.png",
-        "url": "https://github.com/samroy2106/Flight-Information-Tracking-Database"
-      },
-      {
-        "title": "Student Contact Manager Webapp",
-        "category": "Created a full stack Student Contact Manager webapp using HTML, CSS, PHP, jQuery, jQueryUI, and MySQL to keep detailed records of students.",
-        "image": "student_contact_manager.png",
-        "url": "https://github.com/samroy2106/StudentContactManager"
-      },
-      {
-        "title": "HealthLink BC Nutrition Manager Webapp - Systems Analysis",
-        "category": "Did comprehensive systems analysis.",
-        "image": "healthlink_bc.png",
-        "url": "https://github.com/samroy2106/Healthlink-BC-Nutrition-Manager"
-      },
-      {
-        "title": "React To Do List",
-        "category": "Created a React based To Do List.",
-        "image": "to_do.PNG",
-        "url": "https://samroy2106.github.io/react-to-do-app/"
-      },
-      {
-        "title": "React Liverpool Cards",
-        "category": "Created an aesthetically pleasing responsive React app to display current squad members of Liverpool Football Club.",
-        "image": "liverpool_cards.PNG",
-        "url": "https://samroy2106.github.io/react-liverpool-cards/"
-      },
-      {
-        "title": "Face Reader Webapp",
-        "category": "Created a full stack web app using React, Node.js, Express.js and Postgres that uses a face recognition API to detect faces in images given the image URL.",
-        "image": "facereader.PNG",
-        "url": "https://face-read.herokuapp.com/"
-      },
-      {
-        "title": "Weather App",
-        "category": "Created a weather app built using Node.js and Express that uses geocoding and weather forecast API.",
-        "image": "weather_app.PNG",
-        "url": "https://current-weather-forecast.herokuapp.com/"
-      },
-      {
-        "title": "Task Manager",
-        "category": "Created a task Manager app backend built using Node.js, Express and mongoose that keeps track of completed/ incomplete tasks for multiple users.",
-        "image": "task_manager.png",
-        "url": "https://github.com/samroy2106/node-task-manager"
-      },
-      {
-        "title": "Chat App",
-        "category": "Created a chat app built using Node.js and socket.io to allow multiple users to chat and share their location in real time.",
-        "image": "chat_app.PNG",
-        "url": "https://chathalls.herokuapp.com/"
-      },
-      {
-        "title": "Portfolio",
-        "category": "Created a simple personal portfolio using vanilla HTML, CSS and Javascript.",
-        "image": "portfolio.png",
-        "url": "https://samroy2106.github.io/portfolio/"
+        "title": "Underwater Autonomous Robot Prototype",
+        "category": "Designed, developed, and tested a prototype for an Underwater Autonomous Cable carrying robot.",
+        "image": "vex_robot.jpg",
+        "url": "https://blank.org/"
       }
     ]
   }
