@@ -50,10 +50,6 @@
     ],
     "skills": [
       {
-        "name": "Java",
-        "level": "75%"
-      },
-      {
         "name": "Javascript",
         "level": "65%"
       },
@@ -63,6 +59,10 @@
       },
       {
         "name": "PHP",
+        "level": "75%"
+      },
+      {
+        "name": "SQL",
         "level": "75%"
       },
       {
